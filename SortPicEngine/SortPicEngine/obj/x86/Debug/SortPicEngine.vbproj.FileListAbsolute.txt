@@ -1,0 +1,9 @@
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\bin\Debug\SortPicEngine.exe
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\bin\Debug\SortPicEngine.pdb
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\bin\Debug\SortPicEngine.xml
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\obj\x86\Debug\WindowsApplication1.SortPic.resources
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\obj\x86\Debug\SortPicEngine.vbproj.GenerateResource.Cache
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\obj\x86\Debug\SortPicEngine.exe
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\obj\x86\Debug\SortPicEngine.xml
+C:\Users\11747\documents\visual studio 2010\Projects\SortPicEngine\SortPicEngine\obj\x86\Debug\SortPicEngine.pdb
